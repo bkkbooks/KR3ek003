@@ -1,0 +1,630 @@
+canonical_identifier: bkk:krp/KR3ek003/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ek003/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 衛濟寶書
+  identifiers:
+    krp: KR3ek003
+  tags:
+    kr-categories: KR3ek
+    tls-dates: dat04350
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ek003.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ek003_000-jc.yaml, hash: 'sha256:06f4afa3750d519714b0c1cda648247b71bfcfbab7a40950a560457bf4ae0cbb'}
+  - {seq: 1, filename: KR3ek003_001-jc.yaml, hash: 'sha256:0b7c1d6339b64fb06140466da12c19de5fc8d13cddff30905445a866e4cefc66'}
+  - {seq: 3, filename: KR3ek003_003-jc.yaml, hash: 'sha256:aa529accd62cc4d0072645254c9f7fd1676ab6607efe38253d78e89f23a32894'}
+  - {seq: 0, filename: KR3ek003_000-jc.yaml, hash: 'sha256:64dd9694cd6e106b1122b6c99dd6322f65e7ab3cf93db88d0cd4752f0d2431d4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ek003_000-jc.markers.yaml, hash: 'sha256:a7904c8e1755d0cfc29b1497e887a183e8f50cf90346483ac00807a4242ffcd7'}
+  - {seq: 1, role: markers, filename: assets/KR3ek003_001-jc.markers.yaml, hash: 'sha256:24d5ed7c467cf220c4c66918212c7d66979e95afdc2396e63b2443eea46ed7b4'}
+  - {seq: 3, role: markers, filename: assets/KR3ek003_003-jc.markers.yaml, hash: 'sha256:82595a1ff06e4cd31ba481679794642d113e10d2a516e270ac776de1f337f6f6'}
+  - {seq: 0, role: markers, filename: assets/KR3ek003_000-jc.markers.yaml, hash: 'sha256:a7904c8e1755d0cfc29b1497e887a183e8f50cf90346483ac00807a4242ffcd7'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ek003_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 324
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek003_jc_000-d3.h1s1
+    span:
+    - front
+    - 324
+    - 589
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ek003_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 4002
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ek003_jc_001-d4d2
+    span:
+    - body
+    - 2
+    - 4002
+  label: 論治
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek003_jc_001-d4.d2d26
+    span:
+    - body
+    - 1292
+    - 3444
+  label: 癰疽五發
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek003_jc_001-d4.d2d27
+    span:
+    - body
+    - 3444
+    - 3482
+  label: 第一法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek003_jc_001-d4.d2d28
+    span:
+    - body
+    - 3482
+    - 3518
+  label: 第二法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek003_jc_001-d4.d2d29
+    span:
+    - body
+    - 3518
+    - 4002
+  label: 第三法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 4391
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5d2
+    span:
+    - body
+    - 2
+    - 3708
+  label: 方法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d2
+    span:
+    - body
+    - 4
+    - 457
+  label: 正藥指授散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d3
+    span:
+    - body
+    - 457
+    - 555
+  label: 服食仙翁指授散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d4
+    span:
+    - body
+    - 555
+    - 710
+  label: 老翁神杖散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d5
+    span:
+    - body
+    - 710
+    - 808
+  label: 玉女飛花散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d6
+    span:
+    - body
+    - 808
+    - 889
+  label: 趙侯須散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d7
+    span:
+    - body
+    - 889
+    - 1023
+  label: 六化丹
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d8
+    span:
+    - body
+    - 1023
+    - 1166
+  label: 十奇散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d9
+    span:
+    - body
+    - 1166
+    - 1216
+  label: 逼毒散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d10
+    span:
+    - body
+    - 1216
+    - 1282
+  label: 黃耆真君妙貼散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d11
+    span:
+    - body
+    - 1282
+    - 1312
+  label: 托裡地脈散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d12
+    span:
+    - body
+    - 1312
+    - 1411
+  label: 黃芩散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d13
+    span:
+    - body
+    - 1411
+    - 1487
+  label: 秦皮散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d14
+    span:
+    - body
+    - 1487
+    - 1552
+  label: 芎黃散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d15
+    span:
+    - body
+    - 1552
+    - 1624
+  label: 豬蹄湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d16
+    span:
+    - body
+    - 1624
+    - 1663
+  label: 槐白皮湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d17
+    span:
+    - body
+    - 1663
+    - 1736
+  label: 熏藥
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d18
+    span:
+    - body
+    - 1736
+    - 1819
+  label: 活血散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d19
+    span:
+    - body
+    - 1819
+    - 1894
+  label: 輕肌丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d20
+    span:
+    - body
+    - 1894
+    - 2011
+  label: 大車螯散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d21
+    span:
+    - body
+    - 2011
+    - 2051
+  label: 小車螯散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d22
+    span:
+    - body
+    - 2051
+    - 2102
+  label: 內托散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d23
+    span:
+    - body
+    - 2102
+    - 2201
+  label: 解關散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d24
+    span:
+    - body
+    - 2201
+    - 2262
+  label: 金花散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d25
+    span:
+    - body
+    - 2262
+    - 2335
+  label: 排膿散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d26
+    span:
+    - body
+    - 2335
+    - 2426
+  label: 五積勻氣丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d27
+    span:
+    - body
+    - 2426
+    - 2500
+  label: 敗毒散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d28
+    span:
+    - body
+    - 2500
+    - 2590
+  label: 托裡散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d29
+    span:
+    - body
+    - 2590
+    - 2665
+  label: 內補散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d30
+    span:
+    - body
+    - 2665
+    - 2726
+  label: 內消散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d31
+    span:
+    - body
+    - 2726
+    - 2782
+  label: 活膿散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d32
+    span:
+    - body
+    - 2782
+    - 2857
+  label: 五參丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d33
+    span:
+    - body
+    - 2857
+    - 2940
+  label: 內消丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d34
+    span:
+    - body
+    - 2940
+    - 3098
+  label: 內消活關輕竅散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d35
+    span:
+    - body
+    - 3098
+    - 3189
+  label: 生肉膏
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d36
+    span:
+    - body
+    - 3189
+    - 3314
+  label: 麝香膏
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d37
+    span:
+    - body
+    - 3314
+    - 3371
+  label: 桃紅散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d38
+    span:
+    - body
+    - 3371
+    - 3421
+  label: 白檳榔散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d39
+    span:
+    - body
+    - 3421
+    - 3468
+  label: 紅雪散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d40
+    span:
+    - body
+    - 3468
+    - 3643
+  label: 生肌藥
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d2d41
+    span:
+    - body
+    - 3643
+    - 3708
+  label: 捍骨散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5d3
+    span:
+    - body
+    - 3708
+    - 4064
+  label: 乳癰
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d3d6
+    span:
+    - body
+    - 3793
+    - 3863
+  label: 乳癰方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d3d7
+    span:
+    - body
+    - 3863
+    - 3909
+  label: 乳癰方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d3d8
+    span:
+    - body
+    - 3909
+    - 3961
+  label: 導經散子
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d3d9
+    span:
+    - body
+    - 3961
+    - 4064
+  label: 栝蔞散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5d4
+    span:
+    - body
+    - 4064
+    - 4391
+  label: 軟癤
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d4d6
+    span:
+    - body
+    - 4099
+    - 4267
+  label: 止痛水銀膏
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d4d7
+    span:
+    - body
+    - 4267
+    - 4345
+  label: 軟癤方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek003_jc_003-d5.d4d8
+    span:
+    - body
+    - 4345
+    - 4391
+  label: 治清疔
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek003_jc_000-d6.h1s1
+    span:
+    - front
+    - 0
+    - 67
+  label: 後序
+  type: section
+  level: 1
+hash: sha256:07e2ce2437e38b37473e23d0b8c0e8da3d248c4cbba59008d7987ab12ec927d5

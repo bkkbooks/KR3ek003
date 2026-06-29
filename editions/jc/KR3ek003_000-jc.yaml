@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3ek003/jc/v1/juan/0
+seq: 0
+front:
+  text: 後序文禮不才蒙賢太守招致求醫會新安王太監論及背證文禮歷舉諸家治法因投其機遂令編類校正集成一書名曰衛濟寶書後之覽者勿誚愚為僭可也徐文禮識
+  hash: sha256:dc7e6fa4a499076e0108142395ff7cb9f2c5003b7543f084dad508471873fd8c
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ek003_jc_000-d6.h1s1}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 衛濟寶書
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ek003.xml
+hash: sha256:64dd9694cd6e106b1122b6c99dd6322f65e7ab3cf93db88d0cd4752f0d2431d4
